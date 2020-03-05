@@ -1,0 +1,44 @@
+{
+	"info": {
+		"_postman_id": "7b41e08e-3960-44f8-8792-dfdfcf6cecc9",
+		"name": "TESTES",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "teste_qitech_get",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://SCR-NOT-0003.brdom.local",
+					"protocol": "http",
+					"host": [
+						"SCR-NOT-0003",
+						"brdom",
+						"local"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "teste_qitech_post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://SCR-NOT-0003.brdom.local",
+					"protocol": "http",
+					"host": [
+						"SCR-NOT-0003",
+						"brdom",
+						"local"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

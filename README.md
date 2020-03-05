@@ -1,3 +1,17 @@
+Projeto alterado para rodar em ambiente Windows
+Mock do restorno de metodo Post criado
+# Para exeutar
+python app.py
+
+Colletion teste criada
+
+
+
+
+
+
+
+
 # QI TECH PYTHON CASE
 
 O objetivo deste case é a criação de uma API RESTfull que permita:
